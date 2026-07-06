@@ -85,4 +85,4 @@ Nmap project specifically for testing scanners.
 - Export results to a CSV or JSON file
 - Add a `--verbose` flag to show closed ports too
 - Add service/version detection for more ports
-- Add a simple progress bar
+- Add a simple progress bar.
